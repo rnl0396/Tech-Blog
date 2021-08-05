@@ -1,0 +1,17 @@
+[
+  {
+    "name": "HTML and its Legacy",
+    "description": "An article on how HTML and the most basic coding brought us to the most sophisticated web designs",
+    "article_number": 1
+  },
+  {
+    "name": "Jazzy with JavaScript",
+    "description": "How JavaScript is the single most important function of an application",
+    "article_number": 2
+  },
+  {
+    "name": "MySQL and Data",
+    "description": "How important is data and what tools can we use to store it?",
+    "article_number": 3
+  }
+]
